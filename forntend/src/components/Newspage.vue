@@ -24,7 +24,7 @@
    
   <b-col class="text-right" > 
     
-  <div class="text-right" style="margin-top:1rem;margin-bottom:3rem"><h1> HelloWorld</h1>
+  <div class="text-right" style="margin-top:1rem;margin-bottom:3rem"><h1> Intersted</h1>
   </div>
   <b-container style="width:5rem"> 
     <b-row> 
