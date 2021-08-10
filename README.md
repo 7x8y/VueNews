@@ -26,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Backend
 ### mysql database is used and Node server 
 
-#after downloading backend files just run
+after downloading backend files just run
 ```
 npm i
 
