@@ -1,4 +1,4 @@
-# ecomm
+# Nwes website built with vue for front end 
 
 ## Project setup
 ```
@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+##
+## Backend
+### mysql database is used and Node server 
+##after downloading backend files just run
+npm i
+nodemon server.js
