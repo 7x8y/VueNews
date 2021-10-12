@@ -1,4 +1,4 @@
-# Nwes website built with vue for front end 
+# News website built with vue for front end 
 ![Screenshot 2021-08-10 at 11 31 45 AM](https://user-images.githubusercontent.com/79317062/128817664-5fbd0313-f634-4333-81c9-0773d0100fc6.png)
 
 
